@@ -1,1 +1,1 @@
-# dazai_zemi_app
+# StreamlitとPlotlyを使ったダッシュボード
